@@ -1,1 +1,2 @@
 sample file
+remote sample file content changed by someone else
